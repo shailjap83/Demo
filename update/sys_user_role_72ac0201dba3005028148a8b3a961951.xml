@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_demo123.catalog_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>catalog_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 23:26:44</sys_created_on>
+        <sys_id>72ac0201dba3005028148a8b3a961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_demo123.catalog_user</sys_name>
+        <sys_package display_value="demo123" source="x_snc_demo123">2e8ccacddb63005028148a8b3a9619bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo123">2e8ccacddb63005028148a8b3a9619bc</sys_scope>
+        <sys_update_name>sys_user_role_72ac0201dba3005028148a8b3a961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 23:26:44</sys_updated_on>
+    </sys_user_role>
+</record_update>
