@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-12 23:26:45</sys_created_on>
-        <sys_id>20bd06c1db278050136cef728a961932</sys_id>
+        <sys_id>777ec641dba3005028148a8b3a961987</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_demo123_catalog</sys_name>
         <sys_package display_value="demo123" source="x_snc_demo123">2e8ccacddb63005028148a8b3a9619bc</sys_package>
         <sys_policy/>
         <sys_scope display_value="demo123">2e8ccacddb63005028148a8b3a9619bc</sys_scope>
-        <sys_update_name>ua_table_licensing_config_20bd06c1db278050136cef728a961932</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_777ec641dba3005028148a8b3a961987</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-12 23:26:45</sys_updated_on>
     </ua_table_licensing_config>
