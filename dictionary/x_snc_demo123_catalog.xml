@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Catalog" max_length="40" name="x_snc_demo123_catalog" type="collection">
+        <element label="Reserved" max_length="40" name="reserved" type="boolean"/>
         <element label="Title" max_length="100" name="title" type="string"/>
     </element>
 </database>
